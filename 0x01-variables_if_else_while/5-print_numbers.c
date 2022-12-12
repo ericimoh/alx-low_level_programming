@@ -2,14 +2,11 @@
 /**
  * main - Entry point
  *
- * Retrun: Alwasy 0 (success)
+ * Return: Alwasy 0 (success)
  **/
 int main(void)
 {
-	int a;
+	printf("0123456789\n");
 
-	for (a = 0; a < 10; a++)
-		printf("%d", a);
-	putchar("\n");
 	return (0);
 }
