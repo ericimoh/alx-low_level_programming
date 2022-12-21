@@ -1,1 +1,1 @@
-concatenates two strings
+strncpy
