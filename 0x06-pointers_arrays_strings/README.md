@@ -1,1 +1,1 @@
-Prepare for the worst
+function that encodes a string into 1337
