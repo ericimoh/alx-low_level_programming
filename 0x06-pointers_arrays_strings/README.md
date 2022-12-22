@@ -1,1 +1,1 @@
-function that encodes a string into 1337
+print_buffer
