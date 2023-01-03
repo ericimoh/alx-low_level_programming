@@ -1,1 +1,1 @@
-copies memory
+character in a string
