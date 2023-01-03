@@ -1,1 +1,1 @@
-locates a substring
+chessboard
