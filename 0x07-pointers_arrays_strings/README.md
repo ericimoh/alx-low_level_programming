@@ -1,1 +1,1 @@
-strspn
+searches a string
