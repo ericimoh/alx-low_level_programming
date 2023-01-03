@@ -1,1 +1,1 @@
-searches a string
+locates a substring
