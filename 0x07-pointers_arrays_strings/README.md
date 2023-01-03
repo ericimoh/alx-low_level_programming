@@ -1,1 +1,1 @@
-duty and desire
+double pointer
