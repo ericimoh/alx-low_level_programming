@@ -1,1 +1,1 @@
-character in a string
+strspn
