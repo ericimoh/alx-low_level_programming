@@ -1,1 +1,1 @@
-function that returns a pointer
+enought to take risks
