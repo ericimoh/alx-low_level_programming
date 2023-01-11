@@ -1,1 +1,1 @@
-enought to take risks
+better wake up
