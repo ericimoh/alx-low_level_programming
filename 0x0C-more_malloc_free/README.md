@@ -1,1 +1,1 @@
-string ncocat
+memory for an array
