@@ -1,1 +1,1 @@
-array of integers
+memory block
