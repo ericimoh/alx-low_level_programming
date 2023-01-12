@@ -1,1 +1,1 @@
-function that allocates memory using
+string ncocat
