@@ -1,1 +1,1 @@
-memory for an array
+array of integers
